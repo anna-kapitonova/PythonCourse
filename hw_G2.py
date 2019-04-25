@@ -13,6 +13,3 @@ def generator(start, end):
                     i=2
                 if current==end:
                     break
-        
-for number in generator(3, 50):
-    print(number, end=' ')
